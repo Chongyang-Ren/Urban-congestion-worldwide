@@ -52,4 +52,4 @@ These segment tables and map inputs are not included. The notebooks retain the o
 
 These are original plotting cells, not a pixel-identical export of the submitted artwork. Fonts, labels, legends and layout were edited later. Fig. 3a–b retain the original 5/10/20-million population cutoffs, while Fig. 3c–d use 1/5/10 million. The Fig. 4 saved bar tables also differ from parts of the submitted artwork, including the Paris inner/outer ordering and New York bar values. Those differences have been retained for checking rather than adjusted to match the artwork.
 
-Sources: [TomTom Traffic API](https://docs.tomtom.com/#traffic), WorldPop, GHSL and [OpenStreetMap](https://www.openstreetmap.org/copyright), as described in the manuscript.
+Sources: TomTom Traffic API, WorldPop, Global Human Settlement Layer (GHSL) and OpenStreetMap, as described in the manuscript.
