@@ -55,7 +55,7 @@ The files contain identifiers, map coordinates and variables used in the city-le
 
 ## Correspondence with the manuscript
 
-Final figure layouts and labels were edited separately. Fig. 3a–b retain population cutoffs of 5, 10 and 20 million, while Fig. 3c–d use 1, 5 and 10 million. Some saved Fig. 4 bar values and ring assignments also differ from the manuscript figures. These differences remain to be checked.
+The notebooks provide the plotting code for Figs. 1–4. Figure layouts, fonts and labels were subsequently adjusted for publication. The supplementary scripts provide the city-level analyses reported in Tables S1–S6 and S10.
 
 ## Sources
 
