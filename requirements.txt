@@ -1,0 +1,11 @@
+contextily
+geopandas
+jupyterlab
+matplotlib
+numpy
+pandas
+Pillow
+pyproj
+scipy
+shapely
+statsmodels
